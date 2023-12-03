@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattPenaTV
-- 👀 I’m interested in C#, Java, and Python
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in C#, Python
+- 🌱 I’m currently learning Python, AI, and automation
 - 📫 Shoot me a text at 914-564-7860 or email at matthewpena821@gmail.com
 
 <!---
